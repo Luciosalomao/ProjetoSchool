@@ -1,0 +1,12 @@
+    {
+     "id": 5,
+     "nome": "Patolino",
+    "alunos": [
+      {
+        "nome": "Verônica",
+        "sobrenome": "Goiz",
+        "dataNasc": "02/02/2002",
+        "professorId": 5,
+        "professor": null
+      }]
+    }

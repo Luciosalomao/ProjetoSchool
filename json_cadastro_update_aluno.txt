@@ -1,0 +1,13 @@
+   {
+        "id": 13,
+        "nome": "Samira G",
+        "sobrenome": "Potz",
+        "dataNasc": "01/01/2001",
+        "professorId": 15,
+        "professor": {
+            "id": 15,
+            "nome": "Patolino"
+        }
+    }
+	
+obs: json update aluno

@@ -1,4 +1,4 @@
-# projeto_escola
+# projeto_school
 
 ## Project setup
 ```

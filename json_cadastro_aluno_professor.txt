@@ -1,0 +1,26 @@
+{
+    "id": 9,
+    "nome": "Samira",
+    "sobrenome": "Potz",
+    "dataNasc": "01/01/2001",
+    "professorId": 10,
+    "professor": {
+      "id": 10,
+      "nome": "Patolino"
+    }
+  }
+  
+Obs: não está aceitando professorId repetido
+
+{
+    "nome": "Samira G",
+    "sobrenome": "Potz",
+    "dataNasc": "01/01/2001",
+    "professorId": 0,
+    "professor": {
+      "id": 0,
+      "nome": "Patolino"
+    }
+  }
+  
+Obs: passando 0 "zero" no professorId ele vai criando o professorId incremental

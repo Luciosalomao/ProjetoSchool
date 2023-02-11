@@ -1,0 +1,98 @@
+{
+  "Professores": [
+    {
+      "id": 1,
+      "nome": "Lucio Salomão"
+    },
+    {
+      "id": 2,
+      "nome": "King Lee"
+    },
+    {
+      "id": 3,
+      "nome": "Camila Cauz"
+    }
+  ],
+  "alunos": [
+    {
+      "id": 3,
+      "nome": "Maria",
+      "sobrenome": "Angelica",
+      "dataNasc": "12/10/1997",
+      "professor": {
+        "id": 2,
+        "nome": "King Lee"
+      }
+    },
+    {
+      "nome": "Paulinho",
+      "sobrenome": "Santos",
+      "dataNasc": "11/10/2000",
+      "id": 7,
+      "professor": {
+        "id": 2,
+        "nome": "King Lee"
+      }
+    },
+    {
+      "nome": "Valquiria",
+      "sobrenome": "Alvarenga",
+      "dataNasc": "12/05/1999",
+      "id": 8,
+      "professor": {
+        "id": 1,
+        "nome": "Lucio Salomão"
+      }
+    },
+    {
+      "id": 9,
+      "nome": "Lucio Marcos",
+      "sobrenome": "Salomão",
+      "dataNasc": "03/05/1998",
+      "professor": {
+        "id": 3,
+        "nome": "Camila Cauz"
+      }
+    },
+    {
+      "id": 10,
+      "nome": "Marcos",
+      "sobrenome": "Souza",
+      "dataNasc": "07/10/2001",
+      "professor": {
+        "id": 3,
+        "nome": "Camila Cauz"
+      }
+    },
+    {
+      "id": 11,
+      "nome": "Pereira ",
+      "sobrenome": "Costas",
+      "dataNasc": "12/10/1993",
+      "professor": {
+        "id": 1,
+        "nome": "Lucio Salomão"
+      }
+    },
+    {
+      "nome": "Kurupira",
+      "sobrenome": "",
+      "dataNasc": "12/10/1995",
+      "professor": {
+        "id": 1,
+        "nome": "Lucio Salomão"
+      },
+      "id": 12
+    },
+    {
+      "nome": "Lamparina",
+      "sobrenome": "Virgulin",
+      "dataNasc": "05/10/1998",
+      "professor": {
+        "id": 1,
+        "nome": "Lucio Salomão"
+      },
+      "id": 13
+    }
+  ]
+}
